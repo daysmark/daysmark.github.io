@@ -6,7 +6,7 @@
  * @link http://chopstack.com
  */
 body {
-  background-color: #FFF;
+  background-color: #ECEEE8;
   color: #444;
   font-family: "TIBch", "Classic Grotesque W01", "Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -42,7 +42,7 @@ a:focus {
 #header {
   padding: 58px 0 0;
   text-align: left;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid #0F9CF3;
   position: relative; }
   #header .site-name {
     margin-bottom: 40px; }
@@ -75,8 +75,8 @@ a:focus {
       #header #nav-menu a:hover {
         border-bottom-color: #444; }
       #header #nav-menu a.current {
-        border: 1px solid #ddd;
-        border-bottom-color: #fff; }
+        border: 1px solid #F3BB0F;
+        border-bottom-color: #F3BB0F; }
 
 #sidebar {
   border-left: 1px solid #ddd;
