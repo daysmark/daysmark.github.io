@@ -75,8 +75,8 @@ a:focus {
       #header #nav-menu a:hover {
         border-bottom-color: #444; }
       #header #nav-menu a.current {
-        border: 1px solid #F3BB0F;
-        border-bottom-color: #F3BB0F; }
+        border: 1px dashed #F3BB0F;
+        border-bottom-color: #0F9CF3; }
 
 #sidebar {
   border-left: 1px solid #ddd;
@@ -307,7 +307,7 @@ a:focus {
   padding: .8em 0 3.6em;
   margin-top: 1em;
   line-height: 2.5;
-  color: #6E7173;
+  color: #0F9CF3;
   text-align: center; }
   #footer span {
     font-size: .9em; }
