@@ -927,7 +927,7 @@ a {
 .article-title {
   color: #696969;
   margin-left: 0px;
-  font-weight: 300;
+  font-weight: 700;
   line-height: 35px;
   margin-bottom: 20px;
   font-size: 26px;
@@ -944,6 +944,7 @@ a {
 }
 .article-inner {
   position: relative;
+  font-weight: 550;
   margin-bottom: 20px;
 }
 .article-header {
